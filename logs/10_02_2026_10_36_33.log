@@ -1,0 +1,4 @@
+[2026-10-02 10:36:33,331] 52 __main__ -INFO -Tools setup for mcp server
+[2026-10-02 10:36:35,116] 1085 httpx2 -INFO -HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+[2026-10-02 10:36:35,414] 162 mcp.server.streamable_http_manager -INFO -StreamableHTTP session manager started
+[2026-10-02 10:37:19,323] 166 mcp.server.streamable_http_manager -INFO -StreamableHTTP session manager shutting down
